@@ -39,8 +39,8 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-ex. Varje Kivila
-ex. [varje](https://varje.github.io)
+* Varje Kivila
+* [varje](https://varje.github.io)
 
 ## Version History
 
