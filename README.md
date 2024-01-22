@@ -40,7 +40,7 @@ command to run if program contains helper info
 Contributors names and contact info
 
 * Varje Kivila
-* [varje](https://varje.github.io)
+* [varje.github.io](https://varje.github.io)
 
 ## Version History
 
